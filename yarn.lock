@@ -4255,13 +4255,6 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10:
-  version "15.5.10"
-  resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.5.10.tgz#2797dfc3126182e3a95e3dfbb2e893ddd7456154"
-  dependencies:
-    fbjs "^0.8.9"
-    loose-envify "^1.3.1"
-
 prop-types@^15.5.8:
   version "15.6.0"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.0.tgz#ceaf083022fc46b4a35f69e13ef75aed0d639856"
@@ -4989,7 +4982,7 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
 
-sshpk@1.13.2, sshpk@^1.7.0:
+sshpk@^1.7.0:
   version "1.13.2"
   resolved "https://registry.yarnpkg.com/sshpk/-/sshpk-1.13.2.tgz#856569df3ffa8464658a393984aed2a48655e014"
   integrity sha1-hWVp3z/6hGRlijk5hK7SpIZV4BQ=
